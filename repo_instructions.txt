@@ -1,8 +1,11 @@
 ### Creating a package ###
 cd ~/Debian/gulden
 
+### Update the files ###
+cp "new Gulden binaries" files/opt/gulden/gulden/"new Gulden binaries"
+
 ### Edit debian/control ###
-dch -im
+dch -im (or manually using vi debian/control)
 
 ### Build the package ###
 dpkg-buildpackage
