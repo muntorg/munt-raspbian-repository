@@ -17,3 +17,6 @@ dpkg-scanpackages -m pool | gzip > dists/jessie/main/binary-armhf/Packages.gz
 
 ### Check the repo ###
 zcat dists/jessie/main/binary-armhf/Packages.gz
+
+### Repo address ###
+https://gulden.github.io/gulden-raspbian-repository/repo/
