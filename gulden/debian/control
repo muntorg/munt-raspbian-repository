@@ -1,0 +1,15 @@
+Source: gulden
+Section: unknown
+Priority: optional
+Maintainer: Bastijn Koopmans <bastijn@g-dash.nl>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: g-dash.nl
+#Vcs-Git: git://anonscm.debian.org/collab-maint/gulden.git
+#Vcs-Browser: http://anonscm.debian.org/?p=collab-maint/gulden.git;a=summary
+
+Package: gulden
+Architecture: armhf
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Gulden wallet
+ Gulden wallet raspbian package

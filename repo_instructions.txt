@@ -1,0 +1,19 @@
+### Creating a package ###
+cd ~/Debian/gulden
+
+### Edit debian/control ###
+dch -im
+
+### Build the package ###
+dpkg-buildpackage
+
+### Create the repo ###
+cd ~/Debian/
+cp gulden_*.deb repo/
+cd repo/
+rm dists/jessie/main/binary-armhf/Packages.gz
+mv *.deb pool/main/n
+dpkg-scanpackages -m pool | gzip > dists/jessie/main/binary-armhf/Packages.gz
+
+### Check the repo ###
+zcat dists/jessie/main/binary-armhf/Packages.gz
