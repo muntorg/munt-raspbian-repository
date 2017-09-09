@@ -15,14 +15,17 @@ Changes:
  .
    * Initial Release.
 Checksums-Sha1:
- 829f8c7dc3bf3d401a225c9d6e379de2a6292e56 533 gulden_1.6.4.dsc
- 44de2e0fae29ad3829569dd56b2100d101575633 3761308 gulden_1.6.4.tar.xz
- fcc6d7b51a8399deed9a3cd80ee7e46ce505dd84 3754396 gulden_1.6.4_armhf.deb
+ c9ee960d4d61ad1029c1f356ec525e0bdad15fae 533 gulden_1.6.4.dsc
+ e84ea4721b06f841605969b411b00f2ba56fac3d 3746912 gulden_1.6.4.tar.xz
+ 97a09b2d1b6ca86b8ab4ef945ef4047bcf0dc8ff 4599 gulden_1.6.4_armhf.buildinfo
+ 4dcf5219e54f106156ea3a8b28eb23260996ff7b 3740658 gulden_1.6.4_armhf.deb
 Checksums-Sha256:
- 54cac7175b424a2d25ae62e4a9f97f070d84bac4cfc483d5c23977b649f5fc20 533 gulden_1.6.4.dsc
- 8b271b0ddbe4b769647b1f0799f46d5dbf87371e9b5bb834b79f99ea47ecce6e 3761308 gulden_1.6.4.tar.xz
- 2a5f4ae3041ff8d721ff72f44b4fb880ce0f49c64940b7b0bb4dc32a27c62a90 3754396 gulden_1.6.4_armhf.deb
+ a0abc910329a93f315412dae2db9354802a953cd43c1985da273777a7ed942cb 533 gulden_1.6.4.dsc
+ 308d94d70d701172bba926eaff07fd389aabcb29117ce3a18ea8cb7059c589ed 3746912 gulden_1.6.4.tar.xz
+ 557dd22af6507cca9b40f71f7fb1f37070f1f29ee3bc4d90afb1e3bbbad2c6bc 4599 gulden_1.6.4_armhf.buildinfo
+ 762935f5c4df17ef5d7b7fc6e71f131df2fd7d06c8657d4222fc0197a6d07b9b 3740658 gulden_1.6.4_armhf.deb
 Files:
- 2838c8fa89973ccd87666182002ea825 533 unknown optional gulden_1.6.4.dsc
- 5736e4a5bfb85deb3c35005be63a5b1d 3761308 unknown optional gulden_1.6.4.tar.xz
- 8b4e9b309156abae2bd65d5eafb77ce6 3754396 unknown optional gulden_1.6.4_armhf.deb
+ b20d66e33cbf5ab9bb00c2d7d2a57ace 533 unknown optional gulden_1.6.4.dsc
+ 86d6660d9d8e3c257af6fcbc4b055fbb 3746912 unknown optional gulden_1.6.4.tar.xz
+ 25d0d38a1369eac463512d54bbed7c77 4599 unknown optional gulden_1.6.4_armhf.buildinfo
+ 111de352546fa135790eb89bef89e50b 3740658 unknown optional gulden_1.6.4_armhf.deb
