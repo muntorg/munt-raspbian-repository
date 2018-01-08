@@ -1,3 +1,9 @@
+gulden (1.6.4.8) stable; urgency=medium
+
+  * Updated to Gulden 1.6.4.8
+
+ -- Bastijn Koopmans <bastijn@g-dash.nl>  Mon, 08 Jan 2018 21:15:12 +0100
+
 gulden (1.6.4.7) unstable; urgency=medium
 
   * Updated to Gulden 1.6.4.7
