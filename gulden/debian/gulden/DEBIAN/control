@@ -1,8 +1,8 @@
 Package: gulden
-Version: 1.6.4.9
+Version: 1.6.4.10
 Architecture: armhf
 Maintainer: Bastijn Koopmans <bastijn@g-dash.nl>
-Installed-Size: 11717
+Installed-Size: 11713
 Depends: libc6 (>= 2.7), libgcc1 (>= 1:3.5)
 Section: unknown
 Priority: optional
