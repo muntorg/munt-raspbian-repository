@@ -1,3 +1,10 @@
+gulden (2.0.0.2) stable; urgency=medium
+
+  * Updated to Gulden 2.0.0.2
+  * Added a post-install script
+
+ -- Bastijn Koopmans <bastijn@g-dash.nl>  Sat, 07 Jul 2018 22:57:11 +0200
+
 gulden (1.6.4.10) stable; urgency=medium
 
   * Updated to Gulden 1.6.4.10
