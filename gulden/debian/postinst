@@ -24,6 +24,14 @@ case "$1" in
     echo "Making pi the owner of Gulden binaries and give execution rights"
     chown -R pi:pi /opt/gulden/gulden/
     chmod -R a+rwx /opt/gulden/gulden/
+
+    echo "Making pi the owner of Gulden startup script and give execution rights"
+    chown pi:pi /opt/gulden/guldenstart.sh
+    chmod a+rwx /opt/gulden/guldenstart.sh
+
+    echo "Making pi the owner of Gulden run check script and give execution rights"
+    chown pi:pi /opt/gulden/guldendchecker.sh
+    chmod a+rwx /opt/gulden/guldendchecker.sh
     
     ;;
 
