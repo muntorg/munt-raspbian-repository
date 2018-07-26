@@ -1,9 +1,9 @@
 c4ca4238a0b923820dcc509a6f75849b  opt/gulden/datadir/Gulden.ex
-9e248e152bb0dac9c19c96f630610181  opt/gulden/gulden/Gulden-cli
-94a340c1d750fe75e3f7765c4b16922c  opt/gulden/gulden/Gulden-tx
-2041264c35c887803ac4f90ae2cbb223  opt/gulden/gulden/GuldenD
+2f757162323bc2bdb201706e0258af88  opt/gulden/gulden/Gulden-cli
+f13f520ecc419575dc10bc0af40f525d  opt/gulden/gulden/Gulden-tx
+21057e5f9870ff1d110e4d2287741caa  opt/gulden/gulden/GuldenD
 095e47620c9cd8975fd03065faf3f41d  opt/gulden/guldendchecker.sh
 aa5c4bfefb1c0e6a0cb3893a24fb6697  opt/gulden/guldenstart.sh
 6e8b7fdfe58fd3adb93c3ecffbfce9be  usr/share/doc/gulden/README.Debian
-620cad0fd055df0f136b2339964425c7  usr/share/doc/gulden/changelog.gz
+854eb9b356e850034e9fb0064db9744d  usr/share/doc/gulden/changelog.gz
 07edbbba4259d6fa9b9532571b94f24c  usr/share/doc/gulden/copyright
