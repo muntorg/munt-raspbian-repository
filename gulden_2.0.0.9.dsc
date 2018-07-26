@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 9)
 Package-List:
  gulden deb unknown optional arch=armhf
 Checksums-Sha1:
- 64e4e01b9a87163ce7ec8f43f0affbf9e40c6a5f 5583640 gulden_2.0.0.9.tar.xz
+ 6bdabda06c23a05d840748165096d2d8bebcb749 5587804 gulden_2.0.0.9.tar.xz
 Checksums-Sha256:
- dc14901617b5f217413ba51447e130a82a60355fef13bb348cc55944336e25dc 5583640 gulden_2.0.0.9.tar.xz
+ 9198e136aac199c34c848e56d817de054d2f6cb58ab671d37eed441c1f3fc465 5587804 gulden_2.0.0.9.tar.xz
 Files:
- f74b082d637a910deaca234cd4e2af93 5583640 gulden_2.0.0.9.tar.xz
+ 01906fd9585571072eedc5e36ca2ad6b 5587804 gulden_2.0.0.9.tar.xz

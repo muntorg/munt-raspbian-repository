@@ -4,17 +4,17 @@ Binary: gulden
 Architecture: armhf source
 Version: 2.0.0.9
 Checksums-Md5:
- 06ca5bc88b33df087abb5f5d70be681c 541 gulden_2.0.0.9.dsc
- bb08ad2eb7dd4321612f551de26c87df 5576540 gulden_2.0.0.9_armhf.deb
+ 704ca6dea727c60084d837afea54ace9 541 gulden_2.0.0.9.dsc
+ 3f89a64ee0a91ee77fb1502aae78cc8a 5579820 gulden_2.0.0.9_armhf.deb
 Checksums-Sha1:
- 89391eceea41e672c114616781abb13828d1a650 541 gulden_2.0.0.9.dsc
- bce0a548187497c5b7a3abbcd2cefcc2656758b7 5576540 gulden_2.0.0.9_armhf.deb
+ b836dfb393117ebe2ae186fa587d742c7ba72613 541 gulden_2.0.0.9.dsc
+ f0e6351a3e3eb6827d7be3010e664fb68aad7c8e 5579820 gulden_2.0.0.9_armhf.deb
 Checksums-Sha256:
- 9626dcbab2257c960b797c9e1fa6496c3e1e306d1ab7308e45edcaaf985c2c65 541 gulden_2.0.0.9.dsc
- 63cb7f38cd6a9856ac866e4dee4041db9b9ae650686c9fee468fa6c06f6bb0d1 5576540 gulden_2.0.0.9_armhf.deb
+ 8232e5868fe8c474d1980a887c5b2918a04b59193e0a0f99312eb37cd2779850 541 gulden_2.0.0.9.dsc
+ d90da8a636f06f86b7e41dfea80d6838122c4533960303607e46ab5885e5ac67 5579820 gulden_2.0.0.9_armhf.deb
 Build-Origin: Raspbian
 Build-Architecture: armhf
-Build-Date: Thu, 26 Jul 2018 08:29:39 +0000
+Build-Date: Thu, 26 Jul 2018 11:12:53 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-10),
  automake (= 1:1.15-6),
