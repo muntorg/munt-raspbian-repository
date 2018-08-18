@@ -1,8 +1,8 @@
 Package: gulden
-Version: 2.0.0.10
+Version: 2.0.0.11
 Architecture: armhf
 Maintainer: Bastijn Koopmans <bastijn@g-dash.nl>
-Installed-Size: 15269
+Installed-Size: 15401
 Section: unknown
 Priority: optional
 Homepage: g-dash.nl

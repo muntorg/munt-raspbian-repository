@@ -1,3 +1,9 @@
+gulden (2.0.0.11) stable; urgency=medium
+
+  * Update to Gulden 2.0.0.11
+
+ -- Bastijn Koopmans <bastijn@g-dash.nl>  Fri, 17 Aug 2018 17:10:55 +0200
+
 gulden (2.0.0.10) stable; urgency=medium
 
   * Update to Gulden 2.0.0.10
