@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 12 Apr 2019 13:37:44 +0200
+Source: gulden
+Binary: gulden
+Architecture: source armhf
+Version: 2.1.0.4
+Distribution: stable
+Urgency: medium
+Maintainer: Bastijn Koopmans <bastijn@g-dash.nl>
+Changed-By: Bastijn Koopmans <bastijn@g-dash.nl>
+Description:
+ gulden     - Gulden wallet
+Changes:
+ gulden (2.1.0.4) stable; urgency=medium
+ .
+   * Update to Gulden 2.1.0.4
+Checksums-Sha1:
+ 1ab791cacb77d9f1202356bbf108b0d54576ec13 541 gulden_2.1.0.4.dsc
+ f79d6e61fb1d24438c1fdf1c2b3d0a4b3f9178c9 5657652 gulden_2.1.0.4.tar.xz
+ 99346084716ea4b874296d74f2cc1f6eaf86e9ba 4825 gulden_2.1.0.4_armhf.buildinfo
+ 6a767deaf82288b0ab4357d6003fc97946a5a3eb 5653868 gulden_2.1.0.4_armhf.deb
+Checksums-Sha256:
+ 7b7b5a6d92f8ca253d90acf20fd06297d164471d909eb43e333e90a6993dfaf5 541 gulden_2.1.0.4.dsc
+ bd8ed77d50827696f685600bc1505956e8214591dac5d8ec523bfde6bed38c44 5657652 gulden_2.1.0.4.tar.xz
+ adf91f3ca3dce04fee3e46c2a56a8d497c180eed649ddf85203aa887e5a9ad6e 4825 gulden_2.1.0.4_armhf.buildinfo
+ 0edbf9c5ae4bcf4acc63871c546b16b169c06c4412ed245732e553223d6e672b 5653868 gulden_2.1.0.4_armhf.deb
+Files:
+ d8a26175ccbc9f3712d716bb75b4658a 541 unknown optional gulden_2.1.0.4.dsc
+ acd35972c269fb4e5e2fc3fbd7a8cb60 5657652 unknown optional gulden_2.1.0.4.tar.xz
+ 9954b99ded04042566cd5f02c3333df3 4825 unknown optional gulden_2.1.0.4_armhf.buildinfo
+ 0982ec24a5ec1b9807d7638271fc18ab 5653868 unknown optional gulden_2.1.0.4_armhf.deb
