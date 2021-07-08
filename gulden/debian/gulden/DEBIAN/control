@@ -1,0 +1,10 @@
+Package: gulden
+Version: 2.4.0
+Architecture: armhf
+Maintainer: Bastijn Koopmans <bastijn@g-dash.nl>
+Installed-Size: 20842
+Section: unknown
+Priority: optional
+Homepage: g-dash.nl
+Description: Gulden wallet
+ Gulden wallet raspbian package
