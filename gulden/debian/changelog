@@ -1,8 +1,8 @@
-gulden (2.4.3) UNRELEASED; urgency=medium
+gulden (2.4.4) UNRELEASED; urgency=medium
 
-  * Update to Gulden 2.4.3
+  * Update to Gulden 2.4.4
 
- -- Malcolm MacLeod <mmacleod@gmx.com>  Thu, 08 Jul 2021 11:55:40 +0100
+ -- Malcolm MacLeod <mmacleod@gmx.com>  Thu, 15 Jul 2021 21:48:32 +0100
 
 gulden (2.4.0) stable; urgency=medium
 
